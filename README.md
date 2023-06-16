@@ -30,8 +30,8 @@ For the details of the algorithm, see [[1]](#references).
       - ```pip install higher```
    
    * Instructions:
-      - Install PMF and replace "train.py" and place "engine_niwmeta.py" in the root folder. <br>
-      - Place "niwmeta.py" in the models/ folder and replace "__init__.py" in models/. <br>
+      - Install PMF and replace ```train.py``` and place ```engine_niwmeta.py``` in the root folder. <br>
+      - Place ```niwmeta.py``` in the ```models/``` folder and replace ```__init__.py``` in models/. <br>
    
    * Run:
       - Command lines are similar to PMF, eg, for CIFAR-FS with DINO/s-16 
